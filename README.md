@@ -1,5 +1,5 @@
-# Salesforce-Odoo
-This project contains ETL scripts and data pipelines for migrating invoice data from Salesforce to Odoo, ensuring proper formatting and transformation. The process includes:
+# Data-Transformation
+This project contains ETL scripts and data pipelines for migrating invoice data from CRM to CRM, ensuring proper formatting and transformation. The process includes:
 
 Invoice Formatting: Converting Salesforce invoice structures to match Odoo’s requirements.
 Product Value Modification: Adjusting product price, tax rates, or other attributes during migration.
